@@ -1,4 +1,4 @@
-#SOBRE MIM
+#SOBRE MIM:two_hearts:
 - Meu email de contato e kassia.anacleto@escola.pr.gov.br
 - 🌱 I’m currently learning  linguagens do JavaScript e Scratch
 - 💞️
